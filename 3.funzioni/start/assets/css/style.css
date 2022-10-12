@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+body h1 {
+    color: blue;
+}
+body h3 {
+    color: red;
+    margin-top: 30px;
+}
+
+body p {
+    margin-top: 20px;
+    font-weight: 600;
+}
+
+fieldset {
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    margin: 50px auto 0px auto;
+}
+
+fieldset label {
+    margin-top: 20px;
+}
